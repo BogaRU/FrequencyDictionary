@@ -29,7 +29,7 @@ git clone https://github.com/BogaRU/FrequencyDictionary.git
 6. Получите результат
 
 # Пример использования
-'''bash
+```markdown
 Введите источник текста:
 1. TXT файл
 2. JSON файл
@@ -51,4 +51,4 @@ git clone https://github.com/BogaRU/FrequencyDictionary.git
 Частотный словарь говорит:
 
 harry and ron were delighted to hear
-'''
+```
