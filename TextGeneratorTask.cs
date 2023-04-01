@@ -9,7 +9,7 @@ namespace TextAnalysis
             string phraseBeginning,
             int wordsCount)
         {
-            string result = phraseBeginning;
+            string result = phraseBeginning.ToLower();
             for (int i = 0; i < wordsCount; i++)
             {
                 string[] words = result.Split(' ');
