@@ -5,9 +5,9 @@
 # Запуск приложения
 
 Скачайте репозиторий с помощью команды
-'''bash
+```bash
 git clone https://github.com/BogaRU/FrequencyDictionary.git
-'''
+```
 Запустите проект в Visual Studio и следуйте инструкциям приложения.
 
 ## Описание функционала
